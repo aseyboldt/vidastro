@@ -1,5 +1,5 @@
 pdf :
-	rst2latex.py uebersicht.rst > uebersicht.tex
+	rst2latex.py --language=de --documentclass=scrartcl --documentoptions=a4paper,DIV=8  uebersicht.rst > uebersicht.tex
 	pdflatex uebersicht.tex
 	pdflatex uebersicht.tex
 
