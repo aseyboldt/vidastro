@@ -30,9 +30,8 @@ Motivauswahl
 
 - Erklärung Opposition / Konjunktion
 
-.. image:: images/Konjunktion.png
-
-..
+.. figure:: images/Konjunktion.png
+    :scale: 50 %
 
     Quelle: http://commons.wikimedia.org/wiki/File:Konjunktion.png
 
@@ -43,13 +42,24 @@ Vorbereitung
 
 - Kamera ausprobieren: mit Giotto ein kurzes Video aufnehmen
 
-- Teleskop aufbauen und einnorden
+- Teleskop aufbauen und einnorden (siehe eigene Anleitung)
 
 - Stromversorgung für Laptop + Montierung
 
-- 
+- Motiv finden
 
 
+Aufnahme
+--------
+
+- Motiv bei kleiner und später bei großer Vergrößerung durch Okular anschauen.
+  Dabei Teleskop genau ausrichten und Nachführung überprüfen.
+
+- Okular abnehmen und durch Webcam ersetzen. Dabei möglichst wenig wackeln.
+  Aufnehmen, wie in (...) beschrieben.
+
+- Nach den Aufnahmen alles wieder sauber abbauen und aufräumen. Beschrieben in
+  (...)
 
 Webcams
 -------
