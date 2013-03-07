@@ -12,4 +12,5 @@ Inhalt:
     :maxdepth: 2
 
     uebersicht
+    howto_giotto
     meta
