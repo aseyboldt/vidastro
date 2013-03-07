@@ -72,13 +72,6 @@ die Planeten.  Auch die Sonne ist eine Möglichkeit – aber nur mit guter
 Anleitung.  Schaut man ungeschützt durch ein Teleskop in die Sonne, kann man
 leicht für den Rest seines Lebens blind werden!
 
-- Erklärung Opposition / Konjunktion
-
-.. figure:: images/Konjunktion.png
-    :scale: 50 %
-
-    Quelle: http://commons.wikimedia.org/wiki/File:Konjunktion.png
-
 Vorbereitung
 ------------
 
