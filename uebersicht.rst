@@ -1,10 +1,10 @@
-==============================
-Videoastronomie für die Schule
-==============================
+=========
+Übersicht 
+=========
 
 
-Einführung
-----------
+Warum Videoastronomie
+---------------------
 
 .. Seeing beschreiben
 

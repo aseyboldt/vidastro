@@ -1,7 +1,2 @@
-*.tex
-*.pdf
-*.log
-*.out
-*.aux
-*.html
 *~
+_build
