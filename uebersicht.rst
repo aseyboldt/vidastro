@@ -8,10 +8,10 @@ Einführung
 
 .. Seeing beschreiben
 
-Bevor uns Licht aus dem Weltraum erreicht muss es erst durch die Atmosphäre.
-Dabei wird es etwas abgeschwächt – was zwar ärgerlich ist, aber nicht weiter
-stört – und leicht abgelenkt.  Da sich die Luft über uns ständig bewegt ändert
-sich diese Ablenkung ständig, Sterne scheinen also leicht zu wackeln und
+Bevor uns Licht aus dem Weltraum erreicht muss es erst die Atmosphäre
+durchqueren.  Dabei wird es etwas abgeschwächt – was zwar ärgerlich ist, aber
+nicht weiter stört – und leicht abgelenkt.  Da sich die Luft über uns bewegt
+ändert sich diese Ablenkung ständig, Sterne scheinen also leicht zu wackeln und
 größere Flächen wie Planete werden unscharf.  Dieses Phönomen nennt man
 *Seeing*. Man kann das Seeing schon mit bloßem Auge bemerken: Sterne „funkeln“.
 
@@ -24,8 +24,8 @@ das Problem zu lösen.  Wenn uns die Atmosphäre so stört, dann bauen wir unser
 Teleskop doch einfach darüber! Das war die Idee für das Hubble Teleskop. Es
 fliegt in 560 km Höhe um die Erde und tatsächlich macht Hubble unglaublich
 scharfe (und schöne) Bilder. Die meisten Astronomiefotos die man im Internet
-findet sind von Hubble.  Ein anderer Ansatz der bei sehr großen Teleskopen auf
-der Erde verwendet wird ist die „Adaptive Optik“. Während man fotografiert
+findet sind von Hubble.  Ein anderer Ansatz, der bei sehr großen Teleskopen auf
+der Erde verwendet wird, ist die „Adaptive Optik“. Während man fotografiert
 analysiert ein Computer ständig das Bild und versucht herauszufinden, wie man
 den Spiegel verbiegen muss, um das Seeing auszugleichen. Kleine Kolben
 unterhalb des Spiegels führen das dann aus.
@@ -52,6 +52,9 @@ Materialien
 
 - Webcam mit Adapter
 
+- Anleitung zum Auf- und Abbau des Teleskops
+
+- Anleitung für die Aufnahme, und Bearbeitungssoftware Giotto
 
 Motivauswahl
 ------------
