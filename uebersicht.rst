@@ -59,7 +59,18 @@ Materialien
 Motivauswahl
 ------------
 
-- Was kann man mit Videoastronomie fotografieren und was nicht?
+.. Was kann man mit Videoastronomie fotografieren und was nicht?
+
+Videoastronomie eignet sich aber nicht dazu, alle astronomischen Objekte zu
+fotografieren, sonst hätte sich ja auch niemand die Mühe gemacht Teleskope im
+Weltall zu bauen.  Meistens verwendet man keinen Fotoapparat, sondern eine
+Videokamera, oder sogar nur eine Webcam.  Dadurch ergeben sich Schwierigkeiten:
+die Qualität der einzelnen Bilder ist meistens schlecht, das Mitteln vieler
+Bilder hilft aber etwas.  Außerdem ist es schwierig für lange Zeit zu
+belichten.  Am besten eignen sich helle Motive, wie zum Beispiel der Mond oder
+die Planeten.  Auch die Sonne ist eine Möglichkeit – aber nur mit guter
+Anleitung.  Schaut man ungeschützt durch ein Teleskop in die Sonne, kann man
+leicht für den Rest seines Lebens blind werden!
 
 - Erklärung Opposition / Konjunktion
 
