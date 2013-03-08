@@ -10,7 +10,7 @@ Inhalt
 .. toctree::
     :maxdepth: 2
 
-    uebersicht
-    howto_teleskopaufbau
-    howto_giotto
-    meta
+    pages/uebersicht
+    pages/howto_teleskopaufbau
+    pages/howto_giotto
+    pages/meta

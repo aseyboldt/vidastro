@@ -1,6 +1,6 @@
 .. toctree::
 
-    uebersicht
-    howto_teleskopaufbau
-    howto_giotto
+    pages/uebersicht
+    pages/howto_teleskopaufbau
+    pages/howto_giotto
 
