@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Videoastronomie für die Schule
-==============================
 
-Inhalt:
+Inhalt
+======
 
 .. toctree::
     :maxdepth: 2
 
     uebersicht
+    howto_teleskopaufbau
     howto_giotto
     meta
