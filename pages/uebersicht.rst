@@ -46,23 +46,9 @@ Bilder sammeln wir, zentrieren unser Motiv, und mitteln die Bilder.  Den
 Großteil dieser Arbeit kann man zum Glück dem Computer überlassen, wir
 verwenden dazu das Programm Giotto_.
 
-Materialien
------------
-
-- Laptop mit Giotto
-
-- Teleskop
-
-- Webcam mit Adapter
-
-- Anleitung zum Auf- und Abbau des Teleskops
-
-- Anleitung für die Aufnahme, und Bearbeitungssoftware Giotto
 
 Motivauswahl
 ------------
-
-.. Was kann man mit Videoastronomie fotografieren und was nicht?
 
 Videoastronomie eignet sich aber nicht dazu, alle astronomischen Objekte zu
 fotografieren, sonst hätte sich ja auch niemand die Mühe gemacht, Teleskope im
@@ -108,30 +94,68 @@ Osten bzw. Westen, sehen kann.
 Vorbereitung
 ------------
 
-- Motiv überlegen + richtige Zeit abwarten
+.. Motiv überlegen + richtige Zeit abwarten
 
-- Kamera ausprobieren: mit Giotto ein kurzes Video aufnehmen
+Bevor man mit dem Teleskop aufnahmen machen kann, sollte man einige
+Vorbereitungen treffen: Das Auf- und Abbauen des Teleskops ist im dunkeln
+deutlich schwieriger als am Tag, es lohnt sich sehr das vorher zu probieren.
+Wenn man mit dem Teleskop arbeitet sollte man schon wissen, welche Schraube was
+festhält, welche Stellschraube was tut, woher man Strom bekommt (falls man die
+automatische Nachführung verwendet), welches Okular man wann verwendet, wo
+welches Okular ist, wie man die Webcam anschließt und wie man die Aufnahmen
+macht. Also bitte die ganze Anleitung durchlesen und einmal im Hellen
+ausprobieren. Giotto, das Programm zum Zusammenfügen der einzelnen Bilder,
+sollte man auch schon ausprobiert haben, damit man weiß worauf man beim
+Aufnehmen der Bilder achten muss. Es ist ärgerlich, wenn man Stundenlang bei
+Minusgraden in der Nacht stand um tolle Aufnahmen von Jupiter zu machen, nur um
+am nächsten Morgen zu merken, dass man leider nicht richtig scharf gestellt hat
+und nochmal von vorne anfangen muss (hab ich ausprobiert...)
 
-- Teleskop aufbauen und einnorden (siehe eigene Anleitung)
+Also vor der eigentlichen Aufnahme am Tag folgendes machen:
+
+- Teleskop aufbauen, austarieren, Sucher justieren, einnorden (siehe Anleitung)
 
 - Stromversorgung für Laptop + Montierung
 
-- Motiv finden
+- Kamera ausprobieren: mit Giotto ein kurzes Video aufnehmen und die
+  Einzelbilder überlagern (siehe Anleitung)
 
+Dann muss man sich auch überlegen, was man eigentlich fotographieren will.
+Jupiter, Saturn oder der Mond sind die einfachsten Objekte. Wann man was sehen
+kann, kann man zum Beispiel bei astronomie.info_ nachschauen.
 
-Aufnahme
---------
+Warme Kleidung ist ein weiterer wichtiger Punkt. Auch im Sommer kann es Nachts
+recht kühl werden, im Winter muss man sich aber auf jeden Fall gut überlegen,
+was man anzieht.  Die Schuhe sollten eine dicke Sohle haben, schließlich steht
+man die meiste Zeit fast bewegungslos rum. Warme Hose + Pulli und Jacke sind
+wohl selbstverständlich. Besser aber mindestens zwei Pullis. Handschuhe sind
+auch wichtig, praktisch sind aber welche mit freien Fingern, schließlich muss
+man das Teleskop noch bedienen können.  Und auf keinen Fall darf man eine
+Termoskanne mit warmem Tee vergessen.
 
-- Motiv bei kleiner und später bei großer Vergrößerung durch Okular anschauen.
-  Dabei Teleskop genau ausrichten und Nachführung überprüfen.
+Außerdem sollte man sich natürlich auch überlegen, ob man alles hat, was man
+für die Beobachtung braucht:
 
-- Okular abnehmen und durch Webcam ersetzen. Dabei möglichst wenig wackeln.
-  Aufnehmen, wie in (...) beschrieben.
+- Teleskop und Montierung
 
-- Nach den Aufnahmen alles wieder sauber abbauen und aufräumen. Beschrieben in
-  (...)
+- Laptop mit Giotto
+
+- Webcam mit Adapter
+
+- Anleitung zum Auf- und Abbau des Teleskops
+
+- Anleitung für die Aufnahme, und Bearbeitungssoftware Giotto
+
+- Einen Hocker oder kleinen Tisch für den Laptop
+
+- Eventuell Strom für den Laptop und die Montierung
+
+- Eventuell einen Adapter 12V für die Montierung
+
+- Warme Kleidung, besonders im Winter. Siehe oben.
+
 
 .. include:: links.rst
 
-
 .. _Wikipedia: http://commons.wikimedia.org/wiki/File:Light_pollution_It%27s_not_pretty.jpg 
+.. _astronomie.info: http://news.astronomie.info/

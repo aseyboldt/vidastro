@@ -7,7 +7,7 @@ Teleskop schon gut kennt, sollte man mindestens eine Stunde einplanen, bis
 alles fertig ist und man anfangen kann zu beobachten oder zu fotographieren. 
 
 Das erste mal sollte man ein Teleskop immer am Tag probeweise aufbauen. Das ist
-erheblich einfacher als im Dunkeln. Die einzelteile sind einfacher zu finden,
+erheblich einfacher als im Dunkeln. Die Einzelteile sind einfacher zu finden,
 schwieriger zu verlieren und man sieht viel besser was man tut.  Nur bitte
 Vorsicht mit der Sonne! Wirklich! Das Teleskop nie auf die Sonne ausrichten. Am
 besten man lässt den Deckel so viel wie möglich auf dem Teleskop, und schaut
@@ -102,7 +102,7 @@ silberne Schraube an der Montierung liegt:
 .. image:: ../images/2013_05_04klein/2013_05_04_9938.*
    :height: 200pt
 
-Dann die zwei Silbernen Schrauben festdrehen:
+Dann die zwei silbernen Schrauben festdrehen:
 
 .. image:: ../images/2013_05_04klein/2013_05_04_9941.*
    :height: 200pt
