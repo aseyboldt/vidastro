@@ -96,17 +96,16 @@ pygments_style = 'sphinx'
 #html_theme = 'bootstrap_theme'
 #html_theme_path = ['.']
 
-sys.path.append(os.path.abspath('../kr-sphinx-themes'))
-html_theme_path = ['../kr-sphinx-themes']
-html_theme = 'kr'
+#sys.path.append(os.path.abspath('../kr-sphinx-themes'))
+#html_theme_path = ['../kr-sphinx-themes']
+#html_theme = 'kr'
+html_theme = 'basic'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #html_theme_options = {
-#    "navbar_title": "Videoastronomie",
 #    "source_link_position": "footer",
-#    "navbar_class": "navbar navbar-inverse",
 #    "globaltoc_depth": 2
 #}
 

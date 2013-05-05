@@ -1,0 +1,70 @@
+
+{% macro navList() %}
+    <div class="well sidebar-nav">
+        <h4> <a href='{{ pathto(master_doc) }}'> Inhalt </a></h4>
+        {{ toc }}
+        <ul class='pager'>
+            {%- if prev %}
+                <li><a href="{{ prev.link|e }}">Previous</a></li>
+            {%- endif %}
+            {%- if next %}
+                <li><a href="{{ next.link|e }}">Next</a></li>
+            {%- endif %}
+        </ul>
+    </div>
+{% endmacro %}
+
+
+{% macro content() %}
+<div class="container-fluid">
+    <div class="row-fluid">
+        <div class="span3 offset1">
+            {{ navList() }}
+        </div>
+        <div class="span6 offset 1">
+            {% block body %}{% endblock %}
+        </div>
+    </div>
+    {{ bsp_footer() }}
+</div>
+{%- endmacro %}
+
+{% macro bsp_footer() %}
+<hr>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+        <br/>
+        {% include "sourcelink.html" %}
+    </p>
+    <p>
+    {%- if show_copyright %}
+      {%- if hasdoc('copyright') %}
+        {% trans path=pathto('copyright'), copyright=copyright|e %}&copy; <a href="{{ path }}">Copyright</a> {{ copyright }}.{% endtrans %}<br/>
+      {%- else %}
+        {% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}.{% endtrans %}<br/>
+      {%- endif %}
+    {%- endif %}
+      {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}<br/>
+    </p>
+  </div>
+</footer>
+{%- endmacro %}
+
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="utf-8">
+        <title>{{ title|striptags|e }}{{ titlesuffix }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Einführung in die Videoastronomie am GZG">
+        <meta name="author" content="Adrian Seyboldt">
+
+        <link href="{{ pathto('_static/bootstrap.min.css', 1) }}" rel="stylesheet">
+        <link href="{{ pathto('_static/flasky.css', 1) }}" rel="stylesheet">
+    </head>
+    <body>
+        {{ content() }}
+    </body>
+</html>
