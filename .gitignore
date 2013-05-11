@@ -1,2 +1,7 @@
 *~
 _build
+*.swp
+Desktop/
+images/2013_05_04/
+sphinxreport.log
+
