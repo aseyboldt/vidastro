@@ -21,7 +21,7 @@
         <div class="span3 offset1">
             {{ navList() }}
         </div>
-        <div class="span6 offset 1">
+        <div class="span6 hyphenate content">
             {% block body %}{% endblock %}
         </div>
     </div>
@@ -60,6 +60,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Einführung in die Videoastronomie am GZG">
         <meta name="author" content="Adrian Seyboldt">
+
+        <script src="{{ pathto('_static/hyphenate.js', 1) }}" type="text/javascript">
+        <script type="text/javascript">
+            Hyphenator.run();
+        </script>
 
         <link href="{{ pathto('_static/bootstrap.min.css', 1) }}" rel="stylesheet">
         <link href="{{ pathto('_static/flasky.css', 1) }}" rel="stylesheet">

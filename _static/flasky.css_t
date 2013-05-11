@@ -11,8 +11,7 @@
 /* -- page layout ----------------------------------------------------------- */
 
 body {
-    /*font-family: 'goudy old style', 'minion pro', 'bell mt', Georgia, 'Hiragino Mincho Pro';*/
-    font-family: \"Minion Pro\", \"minion-pro\", \"Charis SIL\", Palatino, serif;
+    font-family: "Minion Pro", "minion-pro", "Charis SIL", Palatino, serif;
     font-size: 14pt;
     line-height: 145%;
     background-color: #f3f3f3;
@@ -21,6 +20,9 @@ body {
     color: #3E4349;
 }
 
+.hyphenate {
+    text-align: justify;
+}
 
 hr {
     border: 1px solid #B1B4B6;
@@ -42,17 +44,17 @@ a:hover {
 body h1 {
     font-size: 36pt;
     color: #3B3B3B;
-    margin-bottom: 0em;
     margin-top: 0.5em;
+    text-align: left;
 }
 
 
-body h1 { margin-top: 0; padding-top: 0; font-size: 240%; }
-body h2 { font-size: 180%; }
-body h3 { font-size: 150%; }
-body h4 { font-size: 130%; }
-body h5 { font-size: 100%; }
-body h6 { font-size: 100%; }
+body h1 { margin-top: 0; padding-top: 0; font-size: 240%; text-align: left;}
+body h2 { font-size: 180%; text-align: left;}
+body h3 { font-size: 150%; text-align: left;}
+body h4 { font-size: 130%; text-align: left;}
+body h5 { font-size: 100%; text-align: left;}
+body h6 { font-size: 100%; text-align: left;}
 
 a.headerlink {
     color: #ddd;
@@ -257,4 +259,3 @@ a.footnote-reference:hover {
 a:hover tt {
     background: #EEE;
 }
-
