@@ -22,18 +22,18 @@ auch eine gute Idee sich vorher zu überlegen, wo am Himmel das Objekt das man
 beobachten möchte steht, da es schwierig ist, das Teleskop später zu
 verstellen.
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9914b.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9914b.jpg
    :height: 300pt
 
 Die große Schraube ganz unten hält die Montierung auf dem Stativ. Festziehen.
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9916.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9916.jpg
    :height: 200pt
 
 Als nächstes den Okularhalter richtig hindrehen und mit der großen silbernen
 Schraube direkt darunter fest nach oben drücken
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9917.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9917.jpg
    :height: 200pt
 
 Die Stativbeine ausfahren und das Teleskop so drehen, dass die
@@ -41,13 +41,13 @@ Rektaszensionsachse etwa nach Norden ausgerichtet ist.  Wenn man eine
 Wasserwage zur Hand hat, sollte man jetzt auch überprüfen, ob das das Stativ
 eben steht.
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9920b.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9920b.jpg
    :height: 300pt
 
 Die Polhöhe sollte auf den Breitengrad (in Friedrichshafen also 37°39' N)
 eingestellt sein
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9919.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9919.jpg
    :height: 200pt
 
 
@@ -57,24 +57,24 @@ Gegengewicht und Teleskop montieren
 Die Deklination so drehen, dass die große und kleine silberne Schraube nach
 oben zeigt. Diese halten später das Teleskop
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9923.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9923.jpg
    :height: 200pt
 
 Als nächstes wird die Haltestange für das Gegengewicht angebracht:
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9924.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9924.jpg
    :height: 200pt
 
 Die Montierung sollte jetzt so aussehen:
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9925.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9925.jpg
    :height: 200pt
 
 Unten an der Stange ist eine kleine Schraube, die verhindern soll, dass das
 Gegengewicht herunterfällt, falls es einmal abrutschen sollte. Diese muss jetzt
 entfernt werden. Aufpassen, dass man sie im Dunkeln nicht verliert!
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9926.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9926.jpg
    :height: 200pt
 
 In dem Loch im Gewicht ist ein kleines Stiftchen, das von der Schraube in der
@@ -92,19 +92,19 @@ kann einer das Teleskop halten während der andere die Schrauben anzieht.
 Als erstes müssen die beiden silbernen Schrauben ganz oben so weit
 herausgedreht werden, dass die Enden der Schrauben nicht mehr herausragen:
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9933.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9933.jpg
    :height: 300pt
 
 Jetzt legt man das Teleskop so in die Mulde in der Montierung, dass die
 Schrauben am Tubus oben sind und die Kerbe an der Schiene auf die große
 silberne Schraube an der Montierung liegt:
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9938.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9938.jpg
    :height: 200pt
 
 Dann die zwei silbernen Schrauben festdrehen:
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9941.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9941.jpg
    :height: 200pt
 
 
@@ -165,7 +165,7 @@ so die Erddrehung aus.  Notwendig ist das definitiv nicht, man kann auch von
 Hand nachführen. Dann verwendet man am besten diese Verlängerung für die
 Rektaszension:
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9946.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9946.jpg
    :height: 200pt
 
 Außerdem löst man die kleine silberne Schraube an den Drehknöpfen für
@@ -177,13 +177,13 @@ Teleskop ist ein Behälter für Batterien dabei, man kann aber auch einen Adapte
 für normalen Steckdosenstrom verwenden. Der sollte 12V Gleichstrom liefern und
 muss richtig gepolt sein: Innen + und außen -
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9953b.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9953b.jpg
    :height: 200pt
 
 Die Batterien oder der Adapter und die Motoren werden dann an die Fernbedienung
 angeschlossen.
 
-.. image:: ../images/2013_05_04klein/2013_05_04_9948.*
+.. image:: ../images/2013_05_04klein/2013_05_04_9948.jpg
    :height: 200pt
 
 
