@@ -4,7 +4,7 @@ Auf- und Abbauen des Teleskops
 
 Ein Teleskop auf- oder abzubauen braucht Zeit. Selbst dann, wenn man ein
 Teleskop schon gut kennt, sollte man mindestens eine Stunde einplanen, bis
-alles fertig ist und man anfangen kann zu beobachten oder zu fotographieren. 
+alles fertig ist und man anfangen kann zu beobachten oder zu fotografieren.
 
 Das erste mal sollte man ein Teleskop immer am Tag probeweise aufbauen. Das ist
 erheblich einfacher als im Dunkeln. Die Einzelteile sind einfacher zu finden,
@@ -17,10 +17,10 @@ Montierung und Stativ aufstellen
 --------------------------------
 
 Zuerst sollte man sich überlegen, wo man das Teleskop aufbaut. Der Untergrund
-sollte eben sein und besonders nach Süden sollte nichts im Weg stehen. Es ist
+sollte eben sein und besonders nach Süden darf nichts im Weg stehen. Es ist
 auch eine gute Idee sich vorher zu überlegen, wo am Himmel das Objekt das man
 beobachten möchte steht, da es schwierig ist, das Teleskop später zu
-verstellen.  
+verstellen.
 
 .. image:: ../images/2013_05_04klein/2013_05_04_9914b.*
    :height: 300pt
@@ -60,7 +60,7 @@ oben zeigt. Diese halten später das Teleskop
 .. image:: ../images/2013_05_04klein/2013_05_04_9923.*
    :height: 200pt
 
-Also nächstes wird die Haltestange für das Gegengewicht angebracht:
+Als nächstes wird die Haltestange für das Gegengewicht angebracht:
 
 .. image:: ../images/2013_05_04klein/2013_05_04_9924.*
    :height: 200pt
@@ -135,17 +135,16 @@ genau zu machen.
 
 Zuerst legt man das schwächste Okular (also dass mit der größten Brennweite)
 ein und peilt ein markantes Objekt, das mindestens einige hundert Meter
-entfernt ist, an.  Hat man es in der Mitte des Bildes im Teleskop fixiert man
+entfernt ist, an.  Hat man es in der Mitte des Bildes im Teleskop, fixiert man
 Deklination und Rektanszension und dreht an der Einstellschrauben am Sucher,
-bis das Objekt im Fadenkreuz steht.  Dabei muss man machmal etwas rumprobieren,
-der Zeitaufwand lohnt sich aber.
+bis das Objekt im Fadenkreuz steht.  Dabei muss man machmal etwas rumprobieren.
 
 Einnorden
 ---------
 
 Damit man die Erddrehung gut ausgleichen kann muss die Rektaszensionsachse auf
 den Himmelsnordpol ausgerichtet sein. Je genauer das ist, desto einfacher wird
-das Nachführen.  Für visuelle Beobachtungen oder Videofotographie ist das
+das Nachführen.  Für visuelle Beobachtungen oder Videofotografie ist das
 Einnorden aber nicht sehr wichtig.  Die Polhöhe sollte bereits richtig
 eingestellt sein, der Azimut kann mit den beiden schwarzen Schrauben unten an
 der Montierung verstellt werden (eine hinein- und gleichzeitig die andere
@@ -173,13 +172,16 @@ Außerdem löst man die kleine silberne Schraube an den Drehknöpfen für
 Rektaszension und Deklination, damit die Motoren nicht ständig mitgedreht
 werden, wenn man die Drehknöpfe benutzt.
 
-Will man die Motoren verwenden braucht man natürlich eine Stromquelle. Beim Teleskop ist ein Behälter für Batterien dabei, man kann aber auch einen Adapter für normalen Steckdosenstrom verwenden. Der sollte 12V Gleichstrom liefern und muss richtig gepolt sein: Innen + und außen -
+Will man die Motoren verwenden braucht man natürlich eine Stromquelle. Beim
+Teleskop ist ein Behälter für Batterien dabei, man kann aber auch einen Adapter
+für normalen Steckdosenstrom verwenden. Der sollte 12V Gleichstrom liefern und
+muss richtig gepolt sein: Innen + und außen -
 
 .. image:: ../images/2013_05_04klein/2013_05_04_9953b.*
    :height: 200pt
 
 Die Batterien oder der Adapter und die Motoren werden dann an die Fernbedienung
-angeschlossen. 
+angeschlossen.
 
 .. image:: ../images/2013_05_04klein/2013_05_04_9948.*
    :height: 200pt
@@ -191,7 +193,9 @@ Teleskop abbauen
 
 Wie aufbauen, nur rückwärts.
 
-Bilder, wo die Einzelteile hingehören!
+.. todo::
+
+   Bilder, wo die Einzelteile hingehören!
 
 
 

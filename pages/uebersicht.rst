@@ -25,7 +25,7 @@ das Problem zu lösen.  Wenn uns die Atmosphäre stört, dann bauen wir unser
 Teleskop einfach darüber! So entstand die Idee für das Hubble Teleskop. Es
 fliegt in 560 km Höhe um die Erde und macht tatsächlich unglaublich scharfe
 (und schöne) Bilder. Die meisten Astronomiefotos, die man im Internet findet,
-sind von Hubble.  
+sind von Hubble.
 
 Ein anderer Ansatz, der bei sehr großen Teleskopen auf
 der Erde verwendet wird, ist die „Adaptive Optik“. Während man fotografiert,
@@ -38,7 +38,7 @@ Kolben unterhalb des Spiegels führen das dann aus.
 Für uns kommt natürlich beides nicht in Frage. Adaptive Optik ist viel zu
 kompliziert und einen Satelliten können wir schon gar nicht in die Umlaufbahn
 bringen. Es gibt aber einen Trick, wie man das Seeing mit einfachen Mitteln
-austricksen kann.  Anstatt nur ein Bild zu machen, nehmen wir gleich ganz
+austricksen kann.  Anstatt nur ein Bild zu machen, nehmen wir ganz
 viele, ein ganzes Video auf.  Wenn wir Glück haben, ist immer wieder eines
 dabei, bei dem sich die Verzerrung von zwei Luftschichten gerade ausgleicht,
 oder bei dem das ganze Bild gleichmäßig in eine Richtung verschoben ist.  Diese
@@ -72,7 +72,7 @@ die wichtigsten Gründe hierfür.  So schöne Bedingungen haben wir hier in
 Deutschland leider nicht. 
 
 Ein Teil von dem Licht der Straßenlaternen geht auch nach oben, und wird dort
-von Staub reflektiert. Der Himmel wird also etwas heller und das leuchten
+von Staub reflektiert. Der Himmel wird heller und das leuchten
 dunkler Sterne ist nicht mehr zu sehen.  Will man also lichtschwache Objekte
 wie Nebel oder Galaxien beobachten, dann hat man in den Städten eigentlich
 keine Chance. Mit etwas Glück kann man vielleicht noch den Orionnebel, die
@@ -80,7 +80,7 @@ Andromedagalaxie und einige Sternhaufen sehen. Hier ein kleines Vergleichsbild
 von Wikipedia_: Links bei dunklem Himmel, rechts in einer Stadt mit 500 000
 Einwohnern
 
-.. image:: ../images/800px-Light_pollution.*
+.. image:: ../images/800px-Light_pollution.jpg
    :height: 300pt
 
 Planeten sind zum Glück recht hell, selbst bei starker Lichtverschmutzung kann
@@ -88,7 +88,7 @@ man von ihnen noch recht gute Bilder machen.  Bei Planeten oder dem Mond ist es
 wichtiger, dass die Luft ruhig ist, damit das Seeing so schwach wie möglich
 ist.  Am besten sucht man sich einen Ort, von dem aus man gut nach Süden, und
 falls der Planet, den man beobachten möchte, gerade auf oder unter geht nach
-Osten bzw. Westen, sehen kann. 
+Osten bzw. Westen, sehen kann.
 
 
 Vorbereitung
@@ -96,7 +96,7 @@ Vorbereitung
 
 .. Motiv überlegen + richtige Zeit abwarten
 
-Bevor man mit dem Teleskop aufnahmen machen kann, sollte man einige
+Bevor man mit dem Teleskop Aufnahmen machen kann, sollte man einige
 Vorbereitungen treffen: Das Auf- und Abbauen des Teleskops ist im dunkeln
 deutlich schwieriger als am Tag, es lohnt sich sehr das vorher zu probieren.
 Wenn man mit dem Teleskop arbeitet sollte man schon wissen, welche Schraube was
@@ -120,7 +120,7 @@ Also vor der eigentlichen Aufnahme am Tag folgendes machen:
 - Kamera ausprobieren: mit Giotto ein kurzes Video aufnehmen und die
   Einzelbilder überlagern (siehe Anleitung)
 
-Dann muss man sich auch überlegen, was man eigentlich fotographieren will.
+Dann muss man sich auch überlegen, was man eigentlich fotografieren will.
 Jupiter, Saturn oder der Mond sind die einfachsten Objekte. Wann man was sehen
 kann, kann man zum Beispiel bei astronomie.info_ nachschauen.
 

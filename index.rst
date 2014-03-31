@@ -12,5 +12,3 @@ Inhalt
 
     pages/uebersicht
     pages/howto_teleskopaufbau
-    pages/howto_giotto
-    pages/meta
